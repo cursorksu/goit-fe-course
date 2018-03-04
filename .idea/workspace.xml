@@ -2,7 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="06fa6c8e-29b3-4796-8bfb-f8c0f3798d89" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/html-css/module-5/index.html" afterPath="$PROJECT_DIR$/html-css/module-5/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/css/reset.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/css/styles.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/lato-v14-latin-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/lato-v14-latin-italic.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/montserrat-v12-latin-700.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/montserrat-v12-latin-700.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/montserrat-v12-latin-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/montserrat-v12-latin-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/roboto-slab-v7-latin-regular.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/roboto-slab-v7-latin-regular.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/space-mono-v2-latin-italic.woff" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/fonts/space-mono-v2-latin-italic.woff2" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/html-css/module-7/index.html" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/html-css/module-6/css/reset.css" afterPath="$PROJECT_DIR$/html-css/module-6/css/reset.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,11 +27,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/html-css/module-5/index.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html-css/module-7/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+            <state relative-caret-position="833">
+              <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="styles.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html-css/module-7/css/styles.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="398">
+              <caret line="285" column="31" lean-forward="true" selection-start-line="285" selection-start-column="31" selection-end-line="285" selection-end-column="31" />
+              <folding>
+                <element signature="e#112#350#0" expanded="false" />
+                <element signature="e#2234#2269#0" expanded="false" />
+                <element signature="e#2681#2887#0" expanded="false" />
+                <element signature="e#2898#2933#0" expanded="false" />
+                <element signature="e#2945#2978#0" expanded="false" />
+                <element signature="e#4863#4934#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reset.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html-css/module-7/css/reset.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -39,8 +80,14 @@
       <find>img</find>
       <find>team-item</find>
       <find>team-item-image</find>
-      <find>logo</find>
       <find>team-i</find>
+      <find>services-icon</find>
+      <find>logo</find>
+      <find>.subtitle</find>
+      <find>.services-title</find>
+      <find>section</find>
+      <find>subtitle</find>
+      <find>col</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -56,6 +103,10 @@
         <option value="$PROJECT_DIR$/html-css/module-6/index.html" />
         <option value="$PROJECT_DIR$/html-css/module-6/css/styles.css" />
         <option value="$PROJECT_DIR$/html-css/module-5/index.html" />
+        <option value="$PROJECT_DIR$/html-css/module-7/css/reset.css" />
+        <option value="$PROJECT_DIR$/html-css/module-7/index.html" />
+        <option value="$PROJECT_DIR$/html-css/module-6/css/reset.css" />
+        <option value="$PROJECT_DIR$/html-css/module-7/css/styles.css" />
       </list>
     </option>
   </component>
@@ -105,7 +156,27 @@
               <item name="goit-fe-course" type="b2602c69:ProjectViewProjectNode" />
               <item name="goit-fe-course" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="html-css" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="module-5" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-6" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="goit-fe-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goit-fe-course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="html-css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-6" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="goit-fe-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goit-fe-course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="html-css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-7" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="goit-fe-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="goit-fe-course" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="html-css" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="module-7" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -119,19 +190,19 @@
     <property name="last_opened_file_path" value="D:/work_2018/server" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\goit-fe-course\html-css\module-7\fonts" />
+      <recent name="D:\goit-fe-course\html-css\module-7" />
+      <recent name="D:\goit-fe-course\html-css\module-5\fonts" />
+      <recent name="D:\goit-fe-course\html-css\module-5\images" />
+      <recent name="D:\goit-fe-course\html-css\module-5\js" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\goit-fe-course\html-css\module-5\images" />
       <recent name="D:\goit-fe-course\html-css\module-5\images\images\images" />
       <recent name="D:\goit-fe-course\html-css\module-5" />
       <recent name="D:\goit-fe-course\html-css\module-4" />
       <recent name="D:\goit-fe-course\html-css\module-4\css" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\goit-fe-course\html-css\module-5\fonts" />
-      <recent name="D:\goit-fe-course\html-css\module-5\images" />
-      <recent name="D:\goit-fe-course\html-css\module-5\js" />
-      <recent name="D:\goit-fe-course\html-css\module-5\ls" />
-      <recent name="D:\goit-fe-course\html-css\module-5\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -173,12 +244,12 @@
       <workItem from="1519714978968" duration="1369000" />
       <workItem from="1519748949009" duration="10583000" />
       <workItem from="1519801309523" duration="157000" />
-      <workItem from="1520069277357" duration="5466000" />
+      <workItem from="1520069277357" duration="23856000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68112000" />
+    <option name="totallyTimeSpent" value="86502000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1380" height="784" extended-state="0" />
@@ -554,13 +625,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html-css/module-6/css/reset.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/html-css/module-4/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
@@ -623,10 +687,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/html-css/module-5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-css/module-6/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="6" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="125" selection-end-column="7" />
+          <folding>
+            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/html-css/module-6/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="183" column="1" lean-forward="true" selection-start-line="183" selection-start-column="1" selection-end-line="183" selection-end-column="1" />
+        <state relative-caret-position="1717">
+          <caret line="183" column="1" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="245" selection-end-column="1" />
           <folding>
             <element signature="e#112#350#0" expanded="false" />
             <element signature="e#358#393#0" expanded="false" />
@@ -654,21 +736,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html-css/module-6/index.html">
+    <entry file="file://$PROJECT_DIR$/html-css/module-7/css/reset.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="6" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-          <folding>
-            <element signature="n#section#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/html-css/module-5/index.html">
+    <entry file="file://$PROJECT_DIR$/html-css/module-7/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="13" column="27" lean-forward="true" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        <state relative-caret-position="833">
+          <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-css/module-6/css/reset.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="42" column="18" lean-forward="false" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html-css/module-7/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="285" column="31" lean-forward="true" selection-start-line="285" selection-start-column="31" selection-end-line="285" selection-end-column="31" />
+          <folding>
+            <element signature="e#112#350#0" expanded="false" />
+            <element signature="e#2234#2269#0" expanded="false" />
+            <element signature="e#2681#2887#0" expanded="false" />
+            <element signature="e#2898#2933#0" expanded="false" />
+            <element signature="e#2945#2978#0" expanded="false" />
+            <element signature="e#4863#4934#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
